@@ -1,0 +1,2 @@
+public class WinnerChecker {
+}
